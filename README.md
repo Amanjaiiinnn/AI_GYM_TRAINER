@@ -1,3 +1,8 @@
+## Demo
+
+Hugging Face Space:  
+`https://gymaitrainer.streamlit.app/`
+
 # AI Real-Time Gym Trainer
 
 AI Real-Time Gym Coach is a Streamlit-based fitness assistant that uses live webcam video, MediaPipe pose detection, exercise-specific form analysis, rep counting, workout progress tracking, SQLite history storage, and AI-generated voice coaching.
